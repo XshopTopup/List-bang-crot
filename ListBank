@@ -1,0 +1,639 @@
+{
+  "banks": {
+    "bca": {
+      "name": "Bank BCA",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bri": {
+      "name": "Bank BRI",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bni": {
+      "name": "Bank BNI",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mandiri": {
+      "name": "Bank Mandiri",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bsm": {
+      "name": "BSI (Bank Syariah Indonesia)",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "danamon": {
+      "name": "Bank Danamon",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "permata": {
+      "name": "Bank Permata",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "kesejahteraan_ekonomi": {
+      "name": "SeaBank (Kesejahteraan Ekonomi)",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "artos": {
+      "name": "Bank Jago / Artos",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "cimb": {
+      "name": "CIMB Niaga",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "btn": {
+      "name": "Bank BTN",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "yudha_bakti": {
+      "name": "Bank Neo Commerce / Yudha Bakti",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bjb": {
+      "name": "Bank BJB",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "harda": {
+      "name": "Allo Bank / Bank Harda",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "anz": {
+      "name": "ANZ Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "atmb_lsb": {
+      "name": "ATMB LSB (BPR LSB)",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "atmb_plus": {
+      "name": "ATMB PLUS",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "aceh": {
+      "name": "Bank Aceh / Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "aladin": {
+      "name": "Bank Aladin Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "amar": {
+      "name": "Bank Amar Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "antardaerah": {
+      "name": "Bank Antardaerah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "artha": {
+      "name": "Bank Artha Graha",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "banten": {
+      "name": "Bank BANTEN",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bca_syr": {
+      "name": "Bank BCA Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bengkulu": {
+      "name": "Bank Bengkulu",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bali": {
+      "name": "Bank BPD Bali",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "daerah_istimewa": {
+      "name": "Bank BPD DIY",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "kalimantan_tengah": {
+      "name": "Bank BPD Kalteng",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "kalimantan_timur": {
+      "name": "Bank BPD Kaltim",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "papua": {
+      "name": "Bank BPD Papua",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "tabungan_pensiunan_nasional": {
+      "name": "Bank BTPN / Jenius",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "btpn_syr": {
+      "name": "Bank BTPN Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bukopin": {
+      "name": "Bank Bukopin / Wokee",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bukopin_syr": {
+      "name": "Bank Bukopin Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bumi_arta": {
+      "name": "Bank Bumi Arta",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "capital": {
+      "name": "Bank Capital Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "ccb": {
+      "name": "Bank China Construction Bank Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "commonwealth": {
+      "name": "Bank Commonwealth",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "chinatrust": {
+      "name": "Bank CTBC Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "danamon_syr": {
+      "name": "Bank Danamon Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "dinar": {
+      "name": "Bank Dinar Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "dki_syr": {
+      "name": "Bank DKI Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "ganesha": {
+      "name": "Bank Ganesha",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "hsbc": {
+      "name": "Bank HSBC Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "icbc": {
+      "name": "Bank ICBC Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "ina_perdana": {
+      "name": "Bank INA Perdana",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "index_selindo": {
+      "name": "Bank INDEX Selindo",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "artos_syr": {
+      "name": "Bank Jago Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "jambi": {
+      "name": "Bank Jambi",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "jambi_syr": {
+      "name": "Bank Jambi Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "jasa_jakarta": {
+      "name": "Bank Jasa Jakarta",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "jawa_tengah": {
+      "name": "Bank Jateng",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "jawa_tengah_syr": {
+      "name": "Bank Jateng Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "jawa_timur": {
+      "name": "Bank Jatim",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "jawa_timur_syr": {
+      "name": "Bank Jatim Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "kalimantan_barat": {
+      "name": "Bank Kalbar",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "kalimantan_barat_syr": {
+      "name": "Bank Kalbar Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "kalimantan_selatan": {
+      "name": "Bank Kalsel",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "kalimantan_selatan_syr": {
+      "name": "Bank Kalsel Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "kalimantan_timur_syr": {
+      "name": "Bank Kaltimtara Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "lampung": {
+      "name": "Bank Lampung",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "maluku": {
+      "name": "Bank Maluku",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mantap": {
+      "name": "Bank Mandiri Taspen (MANTAP)",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "maspion": {
+      "name": "Bank Maspion",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mayapada": {
+      "name": "Bank Mayapada",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mayora": {
+      "name": "Bank Mayora",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mega": {
+      "name": "Bank Mega",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mega_syr": {
+      "name": "Bank Mega Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mestika_dharma": {
+      "name": "Bank Mestika",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mizuho": {
+      "name": "Bank Mizuho Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "muamalat": {
+      "name": "Bank Muamalat",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mas": {
+      "name": "Bank Multi Arta Sentosa",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mutiara": {
+      "name": "Bank Mutiara",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sumatera_barat_syr": {
+      "name": "Bank Nagari Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "nationalnobu": {
+      "name": "Bank National Nobu",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "nusa_tenggara_barat": {
+      "name": "Bank NTB / Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "nusa_tenggara_timur": {
+      "name": "Bank NTT",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "nusantara_parahyangan": {
+      "name": "Bank Nusantara Parahyangan",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "ocbc": {
+      "name": "Bank OCBC NISP",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "america_na": {
+      "name": "Bank of America NA",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "boc": {
+      "name": "Bank of China",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "india": {
+      "name": "Bank Of India Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "tokyo": {
+      "name": "Bank of Tokyo Mitsubishi UFJ",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "panin": {
+      "name": "Bank Panin",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "panin_syr": {
+      "name": "Bank Panin Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "prima": {
+      "name": "Bank Prima Master",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "qnb_kesawan": {
+      "name": "Bank QNB indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "rabobank": {
+      "name": "Bank Rabobank",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "resona_perdania": {
+      "name": "Bank Resona Perdania",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "riau_dan_kepri": {
+      "name": "Bank Riau / Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sahabat_sampoerna": {
+      "name": "Bank Sahabat Sampoerna",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sbi_indonesia": {
+      "name": "Bank SBI Indonesia (Indomonex)",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "shinhan": {
+      "name": "Bank Shinhan Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sinarmas": {
+      "name": "Bank Sinarmas",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sinarmas_syr": {
+      "name": "Bank Sinarmas Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sulselbar": {
+      "name": "Bank Sulselbar",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sulselbar_syr": {
+      "name": "Bank Sulselbar Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sulawesi": {
+      "name": "Bank Sulteng",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sulawesi_tenggara": {
+      "name": "Bank Sultra",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sulut": {
+      "name": "Bank SulutGo",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sumatera_barat": {
+      "name": "Bank Sumbar (Nagari)",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sumsel_dan_babel": {
+      "name": "Bank Sumsel Babel",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sumsel_dan_babel_syr": {
+      "name": "Bank Sumsel Babel Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sumut": {
+      "name": "Bank Sumut",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "sumut_syr": {
+      "name": "Bank Sumut Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "victoria_internasional": {
+      "name": "Bank Victoria International",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "victoria_syr": {
+      "name": "Bank Victoria Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "woori": {
+      "name": "Bank Woori Saudara",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bii": {
+      "name": "BII Maybank Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bjb_syr": {
+      "name": "BJB Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "royal": {
+      "name": "Blu / BCA Digital",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bnp_paribas": {
+      "name": "BNP Paribas Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "daerah_istimewa_syr": {
+      "name": "BPD DIY Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "eka": {
+      "name": "BPR Eka (Bank Eka)",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "agroniaga": {
+      "name": "BRI Agroniaga",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "citibank": {
+      "name": "Citibank",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "cnb": {
+      "name": "CNB",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "dbs": {
+      "name": "DBS Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "agris": {
+      "name": "IBK",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "jpmorgan_chase": {
+      "name": "KC JPMorgan Chase Bank",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "hana": {
+      "name": "LINE Bank / KEB Hana",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "bii_syr": {
+      "name": "Maybank Indonesia Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "mnc_internasional": {
+      "name": "Motion / MNC Bank",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "ocbc_syr": {
+      "name": "OCBC NISP Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "permata_syr": {
+      "name": "Permata Syariah",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "standard_chartered": {
+      "name": "Standard Chartered",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    },
+    "uob": {
+      "name": "TMRW / UOB Indonesia",
+      "fee": 0,
+      "status": "OPERATIONAL"
+    }
+  }
+}
